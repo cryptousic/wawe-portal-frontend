@@ -1,0 +1,12 @@
+.header {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.bio {
+    text-align: center;
+    color: white;
+    margin-top: 16px;
+}
