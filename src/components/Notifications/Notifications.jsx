@@ -14,8 +14,4 @@ const Notifications = (props) => (
   </div>
 );
 
-Notifications.propTypes = {};
-
-Notifications.defaultProps = {};
-
 export default Notifications;
