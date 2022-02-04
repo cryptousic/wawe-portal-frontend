@@ -63,6 +63,7 @@
     height: 100%;
     background-color: #fff;
     animation: shiny-btn1 3s ease-in-out infinite;
+
 }
 .btn-11:hover{
     opacity: .7;
