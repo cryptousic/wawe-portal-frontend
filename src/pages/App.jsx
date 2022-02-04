@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "../styles/App.css";
 import Buttons from "../components/Buttons/Buttons";
 import Bio from "../components/Bio/Bio";
 import {useGetAllWaves} from "../hooks/useGetAllWaves"

@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import './Buttons.css'
+import '../../styles/Buttons.css'
 import {getWavePortalContract} from "../../utils/getter";
 import Notifications from "../Notifications/Notifications";
 import Wavers from "../Wawers/Wawers";
