@@ -1,5 +1,4 @@
 import React from 'react';
-import '../../styles/Notifications.css';
 import {Alert, CircularProgress} from "@mui/material";
 
 const Notifications = (props) => (

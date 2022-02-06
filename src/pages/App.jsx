@@ -14,8 +14,7 @@ const App = () => {
         getWavesList();
         getWinnersList();
     };
-    const {currentAccount, connectWallet} =
-        useWallet(run);
+    const {currentAccount, connectWallet} = useWallet(run);
 
     return (
         <div className="mainContainer">
